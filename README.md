@@ -1,2 +1,2 @@
-# Calculator-App
+# CalculatorApp
 super simple calc
